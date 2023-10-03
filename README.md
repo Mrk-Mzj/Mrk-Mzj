@@ -1,6 +1,6 @@
 ### Hi, I'm Marek
 
-I am an experienced Senior Graphic Designer and a beginner Python developer. But not a complete newbie. 
+I am an experienced Senior Graphic Designer and a beginner Python developer. But not a complete newbie. 😉
 
 Coding is one of my many hobbies that I keep coming back to: 
 - I started at age 10 with **BASIC** on the C64.
